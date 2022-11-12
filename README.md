@@ -17,3 +17,8 @@ pnpm test
 pnpm start
 pnpm test
 ```
+
+# 04-plugin
+```
+pnpm start
+```
