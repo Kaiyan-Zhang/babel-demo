@@ -35,3 +35,9 @@ pnpm start
 pnpm test
 ```
 
+# 07-tsx
+```
+pnpm start
+pnpm test
+```
+
