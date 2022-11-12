@@ -22,3 +22,9 @@ pnpm test
 ```
 pnpm start
 ```
+
+# 05-path
+```
+pnpm start
+pnpm test
+```
