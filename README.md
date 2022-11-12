@@ -41,3 +41,9 @@ pnpm start
 pnpm test
 ```
 
+# 08-template
+把`@babel/preset-env`删了不然不容易看到效果
+```
+pnpm start
+pnpm test
+```

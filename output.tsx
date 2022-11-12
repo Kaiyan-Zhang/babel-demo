@@ -1,4 +1,3 @@
-"use strict";
-
-var AA: number = 1;
-var FOO = <div>bar</div>;
+import REACT from 'react';
+const AA: number = 1;
+const FOO = <div>bar</div>;
