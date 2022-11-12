@@ -11,3 +11,9 @@ pnpm start
 pnpm start
 pnpm test
 ```
+
+# 03-babel.config.json
+```
+pnpm start
+pnpm test
+```

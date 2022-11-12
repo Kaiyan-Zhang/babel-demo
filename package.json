@@ -4,7 +4,7 @@
   "description": "babel-demo",
   "types": "module",
   "scripts": {
-    "start": "babel ./input.js --out-file ./output.js --presets=@babel/preset-env",
+    "start": "babel ./input.js --out-file ./output.js",
     "test": "diff ./input.js ./output.js"
   },
   "repository": {
