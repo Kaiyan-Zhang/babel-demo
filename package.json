@@ -4,8 +4,8 @@
   "description": "babel-demo",
   "types": "module",
   "scripts": {
-    "start": "babel ./input.js --out-file ./output.js",
-    "test": "diff ./input.js ./output.js"
+    "start": "babel ./input.jsx --out-file ./output.jsx",
+    "test": "diff ./input.jsx ./output.jsx"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   "dependencies": {
     "@babel/cli": "^7.19.3",
     "@babel/core": "^7.20.2",
+    "@babel/plugin-syntax-jsx": "^7.18.6",
     "@babel/preset-env": "^7.20.2"
   }
 }

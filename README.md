@@ -28,3 +28,10 @@ pnpm start
 pnpm start
 pnpm test
 ```
+
+# 06-jsx
+```
+pnpm start
+pnpm test
+```
+
