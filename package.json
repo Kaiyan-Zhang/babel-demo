@@ -4,7 +4,8 @@
   "description": "babel-demo",
   "types": "module",
   "scripts": {
-    "start": "babel ./input.js --out-file ./output.js"
+    "start": "babel ./input.js --out-file ./output.js --presets=@babel/preset-env",
+    "test": "diff ./input.js ./output.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   "homepage": "https://github.com/Kaiyan-Zhang/babel-demo#readme",
   "dependencies": {
     "@babel/cli": "^7.19.3",
-    "@babel/core": "^7.20.2"
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2"
   }
 }

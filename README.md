@@ -5,3 +5,9 @@ babel-demo
 ```
 pnpm start
 ```
+
+# 02-preset
+```
+pnpm start
+pnpm test
+```
